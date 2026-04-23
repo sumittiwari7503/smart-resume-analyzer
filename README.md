@@ -96,11 +96,10 @@ Upload a resume, paste a job description, and let the AI analyze your resume for
 
 
 ## Contact us :
+sumittiwari7503@gmail.com
 
-- Join our [Discord Community](https://discord.com/invite/qbhACtUB)
-- Our Company Website: [Altoks AI]( https://altoks.vercel.app/)
+
 
 🔗 Follow us everywhere:
-- [Linkedin](https://www.linkedin.com/in/altoks-ai/)
-- [Instagram](https://www.instagram.com/altoks_ai/)
-- [X (Twitter)](https://x.com/Altoks_AI)
+- [Linkedin](https://www.linkedin.com/in/sumit-tiwari-6308121a8/)
+
